@@ -1,11 +1,6 @@
-# Kaiburr-test
+# Kaiburr-Assessment(Harsh Srivastava VIT ,vellore)
 
-<b>Files:</b><br/>
-<b>Screenshot</b> - It contains the Screenshot of the application.<br/>
-<b>Server</b> - It the Spring project with Task 1, Task 4. And for Task 2, it contains the JAR file and the dockerfile to create the image.<br/>
-<b>docker-compose.yml</b> -Contains YML code to compose teh setup. <br/>
-<b>swagger.yaml</b> - Contains the YAML code.<br/>
-<br/><br/>
+
 
 <b>Dependencies Used</b><br/>
 1. Web<br/>
@@ -16,13 +11,14 @@
 6. Thymeleaf<br/>
 
 <b>Task 1 & Task 4</b><br>
-I have created the project using Spring Framework and for the backend mongoDB is used. The endpoints for the project are <br/>
+used springboot for completing task<br/>
+endpoints<br/>
 1. /add (Add the details to the database) <br/>
 2. /getById (Retrive the data using ID) <br/>
 3. /getByName ( Retrive the Data using name) <br/>
 4. /deleteById (Delete from the Database using ID) <br/>
 
- Rest API's postman. And these are:<br/>
+ Rest API's postman:<br/>
 1. /addServer <br/>
 2. /findByName <br/>
 3. /findByID <br/>
