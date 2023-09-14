@@ -22,7 +22,7 @@ I have created the project using Spring Framework and for the backend mongoDB is
 3. /getByName ( Retrive the Data using name) <br/>
 4. /deleteById (Delete from the Database using ID) <br/>
 
-The Restfull API's which are beign called were tested using postman. And these are:<br/>
+ Rest API's postman. And these are:<br/>
 1. /addServer <br/>
 2. /findByName <br/>
 3. /findByID <br/>
@@ -44,20 +44,19 @@ To create the Swagger API is Used the online edittor. And downloaded the code as
 
 <b>Screenshots</b><br>
 
-1. /add : used to add details<br/>
+1. /add : add details<br/>
 <img src="Screenshots/Docker/1)%20Add%20the%20data.png"> <br/>
 
-2. /done : after the data for successfull inserted <br/>
+2. /done :data inserted <br/>
 <img src="Screenshots/Docker/2)%20Confirmation%20of%20data.png"> <br/>
 
-3. /getById : To get the server detials by ID <br/>
+3. /getById : server details using id <br/>
 <img src="Screenshots/Docker/3)%20Find%20by%20id.png"> <br/>
 
-4. /getByName : To get the server detials by Name <br/>
+4. /deleteById : delete using ID <br/>
+<img src="Screenshots/Docker/7)%20Delete%20by%20id.png"> <br/>
+5. /getByName :  getserver details usingName <br/>
 <img src="Screenshots/Docker/5)%20Find%20by%20name.png"> <br/>
 
-5. /deleteById : To delete the server details by ID <br/>
-<img src="Screenshots/Docker/7)%20Delete%20by%20id.png"> <br/>
 
-For More Screenshots please check the folder. <br/>
 
