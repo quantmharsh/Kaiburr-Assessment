@@ -2,15 +2,8 @@
 
 
 
-<b>Dependencies Used</b><br/>
-1. Web<br/>
-2. DevTools<br/>
-3. Lombook<br/>
-4. Swagger<br/>
-5. MongoDB<br/>
-6. Thymeleaf<br/>
 
-<b>Task 1 & Task 4</b><br>
+<b>Task 1</b><br>
 used springboot for completing task<br/>
 endpoints<br/>
 1. /add (Add the details to the database) <br/>
